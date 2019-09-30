@@ -6,6 +6,6 @@ describe('Timeline.vue', () => {
     const Constructor = Vue.extend(Timeline)
     const vm = new Constructor().$mount()
     expect(vm.$el.querySelector('.timeline table thead tr th').textContent)
-      .to.equal('About')
+    .to.equal('About')
   })
 })
