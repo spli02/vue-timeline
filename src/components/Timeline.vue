@@ -15,9 +15,9 @@
             <td>{{ timeline.name.first }} {{ timeline.name.last }}</td>
             <td>{{ timeline.registered }}</td>
             <td>
-              <span v-for="info of timeline.tags" v-bind:key="info">
+              <button class="button-outline" v-for="info of timeline.tags" v-bind:key="info">
               {{ info }}
-              </span>
+              </button>
             </td>
         </tr>
       </tbody>
@@ -38,6 +38,3 @@ export default {
   },
 };
 </script>
-
-<style>
-</style>

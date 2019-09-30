@@ -1,4 +1,4 @@
-# vue-timeline
+# "vue-timeline"
 This is the application which display the timeline.
 
 Vue and Milligram are used.
@@ -8,7 +8,7 @@ If you want to know more details, check the link below.
 - [Vue] (https://www.npmjs.com/package/vue)
 - [Milligram] (https://www.npmjs.com/package/milligram)
 
-# How to use "currency-converter"
+# How to use "vue-timeline"
 1. Execute the command below to copy(clone) currency-converter repository.
 
 ```bash
@@ -43,9 +43,8 @@ npm run unit
 npm test
 ```
 
-## Content
-```console
-vue-timeline% tree
+## Main Content
+```
 ./index.html
 ./src
 ├── App.vue

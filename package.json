@@ -1,8 +1,8 @@
 {
-  "name": "tutorial_vuejs_todo_management",
+  "name": "vue-timeline",
   "version": "1.0.0",
-  "description": "A Vue.js project",
-  "author": "Shintaro Tanaka <sin_tanaka@jsl.co.jp>",
+  "description": "",
+  "author": "",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
