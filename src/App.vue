@@ -13,8 +13,8 @@ export default {
 
 <style>
 #app {
-  text-align: center;
   padding: 5rem;
+  text-align: center;
   letter-spacing: .1rem;
 }
 
