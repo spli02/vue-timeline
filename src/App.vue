@@ -15,5 +15,10 @@ export default {
 #app {
   text-align: center;
   padding: 5rem;
+  letter-spacing: .1rem;
+}
+
+h1{
+  letter-spacing: .5rem;
 }
 </style>
